@@ -1,0 +1,9 @@
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/install/strip.dir
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/install/local.dir
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/install.dir
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/list_install_components.dir
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/rebuild_cache.dir
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/edit_cache.dir
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/test.dir
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/lab1_pkg_uninstall.dir
+/root/ros2_ws/build/lab1_pkg/CMakeFiles/uninstall.dir
